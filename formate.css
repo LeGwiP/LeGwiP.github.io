@@ -1,0 +1,21 @@
+body{background-image:url(Pics/marble-red.gif);
+     background-color:black;}
+h1{text-align:center;
+   font-size:26pt;
+   color:#00ddff;
+   font-weight:bold;
+   font-style:italic;}
+h2{text-align:center;
+   font:"helvetica";
+   font-size:14pt;
+   color:#00C75D;}
+h3{text-align:center;
+   font-size:18pt;
+   color:#00FF00;}
+h4{text-align:left;
+   font:"helvetica";
+   font-size:14pt;
+   color:#000000;}
+p{text-align:center;
+  font-size:14pt;
+  color:#00ddff;}
